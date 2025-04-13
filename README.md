@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tarun Soni</h1>
-<h3 align="center">Passionate web developer 👨‍💻 with a strong foundation in JavaScript seeking to transition into a MERN stack developer role</h3>
+<h3 align="center">Hey there! 👋 I’m a Java Backend Developer 👨‍💻 with a strong interest in building powerful and reliable web applications. I’ve worked on several projects using Java, Servlets, JSP, Spring Boot, and Spring MVC, where I focused on writing clean code and building solid backend systems🌐.
+</h3>
 
 - 🔭 I’m currently working on **enhancing my skills**
 
-- 👯 I’m looking to collaborate on **MERN STACK PROJECTS**
+- 👯 I’m looking to collaborate on **Java Backend PROJECTS**
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **starun6392@gmail.com**
 
@@ -19,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=starun0011&show_icons=true&locale=en&layout=compact" alt="starun0011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starun0011&" alt="starun0011" /></p>
+
