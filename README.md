@@ -78,7 +78,8 @@
 
 <!---------------------------------------------- SECTION 5 STATICAL DATA------------------------------------>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=starun0011&layout=compact&langs_count=5&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=starun0011&layout=compact&theme=radical&hide=php" />
+  <!--  &langs_count=5  --->
 </p>
 
 
